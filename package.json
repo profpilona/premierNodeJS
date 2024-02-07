@@ -1,0 +1,19 @@
+{
+  "name": "premier_nodejs",
+  "version": "1.0.0",
+  "description": "Voici un exemple de premier programme nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profpilona/premierNodeJS.git"
+  },
+  "author": "Alain Pilon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profpilona/premierNodeJS/issues"
+  },
+  "homepage": "https://github.com/profpilona/premierNodeJS#readme"
+}
